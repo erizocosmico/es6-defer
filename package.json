@@ -1,6 +1,6 @@
 {
-  "name": "defer",
-  "version": "1.0.0",
+  "name": "es6-defer",
+  "version": "1.0.1",
   "description": "A deferred for EcmaScript 6.",
   "main": "src/defer.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mvader/defer"
+    "url": "https://github.com/mvader/es6-defer"
   },
   "keywords": [
     "deferred",
@@ -21,9 +21,9 @@
   "author": "Miguel Molina <hi@mvader.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mvader/defer/issues"
+    "url": "https://github.com/mvader/es6-defer/issues"
   },
-  "homepage": "https://github.com/mvader/defer",
+  "homepage": "https://github.com/mvader/es6-defer",
   "devDependencies": {
     "babel": "^5.8.23",
     "es6-promise": "^3.0.2",

@@ -3,9 +3,14 @@ A deferred for EcmaScript 6.
 
 It works just like [Q](https://github.com/kriskowal/q)'s deferred but they use EcmaScript 6 promises underneath.
 
+You can install it from npm.
+```
+npm install es6-defer
+```
+
 **Example:**
 ```javascript
-import defer from 'defer';
+import defer from 'es6-defer';
 
 let deferred = defer();
 
