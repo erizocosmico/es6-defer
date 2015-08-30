@@ -1,0 +1,33 @@
+{
+  "name": "defer",
+  "version": "1.0.0",
+  "description": "A deferred for EcmaScript 6.",
+  "main": "src/defer.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --compilers js:babel/register --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mvader/defer"
+  },
+  "keywords": [
+    "deferred",
+    "promises",
+    "es6"
+  ],
+  "author": "Miguel Molina <hi@mvader.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvader/defer/issues"
+  },
+  "homepage": "https://github.com/mvader/defer",
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "es6-promise": "^3.0.2",
+    "expect": "^1.9.0",
+    "mocha": "^2.2.5"
+  }
+}
