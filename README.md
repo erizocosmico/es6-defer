@@ -1,4 +1,4 @@
-# defer [![Build Status](https://travis-ci.org/mvader/es6-defer.svg)](https://travis-ci.org/mvader/es6-defer)
+# es6-defer [![Build Status](https://travis-ci.org/mvader/es6-defer.svg)](https://travis-ci.org/mvader/es6-defer)
 A deferred for EcmaScript 6.
 
 It works just like [Q](https://github.com/kriskowal/q)'s deferred but they use EcmaScript 6 promises underneath.
